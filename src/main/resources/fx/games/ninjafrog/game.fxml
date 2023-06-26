@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.shape.Rectangle?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<Pane xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="fx.games.ninjafrog.InGameController">
+
+
+    <Rectangle fx:id="background" height="720" width="1280" />
+   <Pane fx:id="uiRoot">
+      <children>
+         <ImageView fitHeight="30.0" fitWidth="30.0" pickOnBounds="true" preserveRatio="true">
+            <image>
+               <Image url="@f.png" />
+            </image>
+         </ImageView>
+         <Text fill="WHITE" layoutX="30.0" layoutY="30.0" strokeType="OUTSIDE" strokeWidth="0.0" text="X" />
+         <Text fx:id="txtPlayerLives" fill="WHITE" layoutX="40.0" layoutY="30.0" strokeType="OUTSIDE" strokeWidth="0.0" text="5">
+            <font>
+               <Font size="20.0" />
+            </font>
+         </Text>
+         <ImageView fitHeight="30.0" fitWidth="44.0" layoutX="1202.0" pickOnBounds="true" preserveRatio="true">
+            <image>
+               <Image url="@e.png" />
+            </image>
+         </ImageView>
+         <Text fill="WHITE" layoutX="1247.0" layoutY="25.0" strokeType="OUTSIDE" strokeWidth="0.0" text="X" />
+         <Text fx:id="txtEnemiesLives" fill="WHITE" layoutX="1255.0" layoutY="26.0" strokeType="OUTSIDE" strokeWidth="0.0" text="7">
+            <font>
+               <Font size="20.0" />
+            </font>
+         </Text>
+         <ImageView fx:id="imgBullet" fitHeight="16.0" fitWidth="21.0" layoutX="25.0" layoutY="1.0" pickOnBounds="true" preserveRatio="true">
+            <image>
+               <Image url="@bullet.png" />
+            </image>
+         </ImageView>
+      </children></Pane>
+</Pane>

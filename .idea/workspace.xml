@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="583fa7a1-3f53-44b3-ba41-ea58647dfadb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fx/games/ninjafrog/Block.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fx/games/ninjafrog/Effect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fx/games/ninjafrog/EndFlag.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fx/games/ninjafrog/Enemy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fx/games/ninjafrog/Fruit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fx/games/ninjafrog/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fx/games/ninjafrog/InGameController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fx/games/ninjafrog/InfiniteSpriteAnimation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fx/games/ninjafrog/LevelData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fx/games/ninjafrog/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fx/games/ninjafrog/PlayerBullet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fx/games/ninjafrog/SpriteAnimation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fx/games/ninjafrog/WelcomeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/fx/games/ninjafrog/background.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/fx/games/ninjafrog/background.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/fx/games/ninjafrog/background.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/fx/games/ninjafrog/background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/fx/games/ninjafrog/block.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/fx/games/ninjafrog/bullet.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/fx/games/ninjafrog/e.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/fx/games/ninjafrog/eat.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/fx/games/ninjafrog/enemy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/fx/games/ninjafrog/f.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/fx/games/ninjafrog/f_hit.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/fx/games/ninjafrog/fall.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/fx/games/ninjafrog/flag.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/fx/games/ninjafrog/fruit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/fx/games/ninjafrog/game.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/fx/games/ninjafrog/jump.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/fx/games/ninjafrog/p.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/fx/games/ninjafrog/player.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/fx/games/ninjafrog/r_hit.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/fx/games/ninjafrog/shoot.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/fx/games/ninjafrog/welcome.fxml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2PVkpCH8kTqTZeJ711RmT5ZP5Lf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_directory_selection": "C:/Users/Bern Ard/IdeaProjects/NinjaFrog/src/main/java/fx/games/ninjafrog",
+    "last_opened_file_path": "C:/Users/Bern Ard/IdeaProjects/NinjaFrog/src/main/resources/fx/games/ninjafrog"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Bern Ard\IdeaProjects\NinjaFrog\src\main\resources\fx\games\ninjafrog" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Bern Ard\IdeaProjects\NinjaFrog\src\main\resources\fx\games\ninjafrog" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="fx.games.ninjafrog" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Game" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fx.games.ninjafrog.Game" />
+      <module name="NinjaFrog" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fx.games.ninjafrog.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Game" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="583fa7a1-3f53-44b3-ba41-ea58647dfadb" name="Changes" comment="" />
+      <created>1683549819187</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1683549819187</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
